@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+  
+}
+
+.instagramPostcard {
+    background-color: white;
+    width: 500px;
+    height: 720px;
+    margin: auto;
+        
+}
+i {
+    padding: 5px;
+    font-size: x-large;
+}
+
+img {
+    width: 500px;
+    height: 400px;
+}
+
+.instagramPostHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+.instagramPostHeaderLeft {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.bodyIcons {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.instagramPostFooter {
+    margin: 15px;
+}
+
